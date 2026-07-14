@@ -4,4 +4,4 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
 
 | Day | Date | Topic | SQLBolt | LeetCode |
 |---|---|---|---|---|
-| Day 01 | 14.07.2026 | Basic Queries & Filtering | Lessons 1–5 | -- |
+| 01 | 14.07.2026 | Basic Queries & Filtering | Lessons 1–5 | -- |
