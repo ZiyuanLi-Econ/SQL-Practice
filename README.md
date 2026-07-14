@@ -1,6 +1,6 @@
 # SQL Practice
 
-SQL was introduced through an undergraduate course in Wirtschaftsinformatik. This repository documents daily practice through independent exercises, SQLBolt, and LeetCode.
+I first encountered SQL during an undergraduate course in Business Informatics. This repository records my ongoing practice through daily exercises, SQLBolt, and LeetCode.
 
 | Day | Date | Topic | SQLBolt | LeetCode |
 |---|---|---|---|---|
