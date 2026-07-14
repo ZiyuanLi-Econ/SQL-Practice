@@ -1,6 +1,6 @@
 # SQL Practice
 
-I first learned SQL in an undergraduate Business Informatics course. This repository records my daily SQL practice, including my own exercises, SQLBolt lessons, and LeetCode problems.
+My foundational knowledge of SQL was acquired through an undergraduate course in Business Informatics. This repository documents continued daily practice through independent exercises, SQLBolt lessons, and LeetCode problems.
 
 | Day | Date | Topic | SQLBolt | LeetCode |
 |---|---|---|---|---|
