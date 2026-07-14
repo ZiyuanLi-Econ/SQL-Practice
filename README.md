@@ -1,5 +1,7 @@
 # SQL Practice
 
-| Day | Knowledge | SQLBolt | LeetCode |
-|---|---|---|---|
-| Day 01 | SELECT, WHERE, AND, OR, IN, BETWEEN, LIKE, ORDER BY, LIMIT, DISTINCT | Lessons 1–5 | -- |
+I first learned SQL in an undergraduate Business Informatics course. This repository records my daily SQL practice, including my own exercises, SQLBolt lessons, and LeetCode problems.
+
+| Day | Date | Topic | SQLBolt | LeetCode |
+|---|---|---|---|---|
+| Day 01 | 14.07.2026 | Basic Queries & Filtering | Lessons 1–5 | -- |
