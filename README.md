@@ -1,6 +1,6 @@
 # SQL Practice
 
-My foundational knowledge of SQL was acquired through an undergraduate course in Wirtschaftsinformatik (Business Informatics). This repository documents continued daily practice through independent exercises, SQLBolt lessons, and LeetCode problems.
+SQL was introduced through an undergraduate course in Wirtschaftsinformatik. This repository documents daily practice through independent exercises, SQLBolt, and LeetCode.
 
 | Day | Date | Topic | SQLBolt | LeetCode |
 |---|---|---|---|---|
