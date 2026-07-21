@@ -1,98 +1,80 @@
--- SQLBolt aggregate practice (Lessons 10–12)
-
--- Lesson 10
-SELECT MAX(years_employed)
-FROM employees;
-
-SELECT
-    role,
-    AVG(years_employed)
+--E10
+SELECT role, avg(years_employed)
 FROM employees
-GROUP BY role;
+group by role
 
-SELECT
-    building,
-    SUM(years_employed)
+SELECT building,sum(years_employed) 
 FROM employees
-GROUP BY building;
+group by building
 
--- Lesson 11
-SELECT COUNT(*)
+
+--E11
+SELECT count() 
 FROM employees
-WHERE role = 'Artist';
+where role='Artist'
 
-SELECT
-    role,
-    COUNT(*)
+SELECT count() ,role
 FROM employees
-GROUP BY role;
+group by role
 
-SELECT SUM(years_employed)
+SELECT role,sum(years_employed)
 FROM employees
-WHERE role = 'Engineer';
+where role='Engineer'
 
--- Lesson 12
-SELECT
-    director,
-    COUNT(title)
-FROM movies
-GROUP BY director;
 
-SELECT
-    director,
-    SUM(domestic_sales + international_sales)
-FROM movies
-JOIN boxoffice
-    ON movies.id = boxoffice.movie_id
-GROUP BY director;
+--E12
+select count(title),director
+from movies
+group by director
 
--- LeetCode 1661: Average Time of Process per Machine
-SELECT
-    s.machine_id,
-    ROUND(AVG(e.timestamp - s.timestamp), 3) AS processing_time
-FROM Activity AS s
-JOIN Activity AS e
-    ON s.machine_id = e.machine_id
-    AND s.process_id = e.process_id
-WHERE s.activity_type = 'start'
-    AND e.activity_type = 'end'
-GROUP BY s.machine_id;
+SELECT director, sum(domestic_sales+international_sales) as sales 
+FROM boxoffice
+join movies
+on movies.id=boxoffice.movie_id
+group by director
 
--- LeetCode 577: Employee Bonus
-SELECT
-    e.name,
-    b.bonus
-FROM Employee AS e
-LEFT JOIN Bonus AS b
-    ON e.empId = b.empId
-WHERE b.bonus < 1000
-    OR b.bonus IS NULL;
 
--- LeetCode 1280: Students and Examinations
-SELECT
-    s.student_id,
-    s.student_name,
-    sub.subject_name,
-    COUNT(e.subject_name) AS attended_exams
-FROM Students AS s
-CROSS JOIN Subjects AS sub
-LEFT JOIN Examinations AS e
-    ON s.student_id = e.student_id
-    AND sub.subject_name = e.subject_name
-GROUP BY
-    s.student_id,
-    s.student_name,
-    sub.subject_name
-ORDER BY
-    s.student_id,
-    sub.subject_name;
+--1661
+select s.machine_id, round(AVG(e.timestamp-s.timestamp),3) as processing_time
+from activity as s
+join activity as e
+on s.machine_id=e.machine_id AND s.process_id=e.process_id
+where s.activity_type='start' AND e.activity_type='end'
+group by machine_id
 
--- LeetCode 570: Managers with at Least 5 Direct Reports
-SELECT e.name
-FROM Employee AS e
-JOIN Employee AS m
-    ON e.id = m.managerId
-GROUP BY
-    e.id,
-    e.name
-HAVING COUNT(*) >= 5;
+
+--577
+select name,bonus from employee
+left join bonus
+on employee.empid=bonus.empid
+where bonus<1000 OR bonus is null
+
+
+--1280
+# Write your MySQL query statement below
+select students.student_id,students.student_name,subjects.subject_name,count(examinations.subject_name) as attended_exams 
+from students
+cross join subjects
+left join examinations
+on students.student_id=examinations.student_id AND subjects.subject_name=examinations.subject_name
+group by students.student_id,
+    students.student_name,
+    subjects.subject_name
+order by students.student_id,subjects.subject_name
+
+
+--570
+select e.name
+from employee as e
+join employee as m 
+on e.id = m.managerid
+group by e.name,e.id
+having count(m.id)>=5
+
+
+--1934
+select s.user_id, ifnull(round(sum(case when c.action='confirmed' then 1 else 0 END)/count(c.user_id),2),0) as confirmation_rate
+from signups as s
+left join confirmations as c
+on s.user_id=c.user_id
+group by s.user_id
