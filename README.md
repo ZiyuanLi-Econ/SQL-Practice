@@ -11,3 +11,4 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
 | 05 | 22.07.2026 | Filtering, Aggregation, CASE WHEN, Date Functions, Subqueries, Tuple IN | -- | 620, 1251, 1075, 1633, 1211, 1193, 1174, 550 |
 | 06 | 23.07.2026 | COUNT DISTINCT, GROUP BY, HAVING, Subqueries, Derived Tables | -- | 2356, 1141, 1070, 596, 1729, 619, 1045 |
 | 07 | 24.07.2026 | Self Join, Subqueries, INSERT, UPDATE, DELETE | Lessons 13–15 | 1731, 1789 |
+| 08 | 27.07.2026 | CASE WHEN, Self Join, Correlated Subqueries, Cumulative SUM, UNION ALL | -- | 610, 180, 1164, 1204, 1907 |
