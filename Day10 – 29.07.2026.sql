@@ -71,3 +71,6 @@ DROP COLUMN Description;
 
 ALTER TABLE Database
 RENAME TO Databases;
+
+-- SQLBolt Lesson 18: Dropping tables (syntax practice)
+DROP TABLE IF EXISTS Databases;
