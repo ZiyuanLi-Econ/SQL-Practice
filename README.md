@@ -2,10 +2,7 @@
 
 I first encountered SQL during my undergraduate Business Informatics course. This repository records my ongoing practice through daily exercises, SQLBolt, and LeetCode SQL problems.
 
-## Study Notes
-
-- [SQL syntax, problem-solving framework, and core archetypes](SQL-Notes.md)
-- SQLBolt Lessons 1–18 completed.
+SQLBolt Lessons 1–18 completed.
 
 ## Practice Log
 
