@@ -13,3 +13,4 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
 | 07 | 24.07.2026 | Self Join, Subqueries, INSERT, UPDATE, DELETE | Lessons 13–15 | 1731, 1789 |
 | 08 | 27.07.2026 | CASE WHEN, Self Join, Correlated Subqueries, Cumulative SUM, UNION ALL | -- | 610, 180, 1164, 1204, 1907 |
 | 09 | 28.07.2026 | EXISTS, NOT EXISTS, Correlated Subqueries, Window Functions, DENSE_RANK, PARTITION BY, Derived Tables | -- | 585, 185 |
+| 10 | 29.07.2026 | String Functions, LIKE/REGEXP, DISTINCT, GROUP_CONCAT, DELETE with Derived Tables, CREATE/ALTER TABLE | Lessons 16–17 | 1667, 1527, 196, 176, 1484, 1517 |
