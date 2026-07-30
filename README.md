@@ -2,7 +2,6 @@
 
 I first encountered SQL during my undergraduate Business Informatics course. This repository records my ongoing practice through daily exercises, SQLBolt, and LeetCode SQL problems.
 
-SQLBolt Lessons 1–18 completed.
 
 ## Practice Log
 
