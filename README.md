@@ -18,4 +18,4 @@ SQLBolt Lessons 1–18 completed.
 | 08 | 27.07.2026 | Correlated & Cumulative Queries | -- | 610, 180, 1164, 1204, 1907 |
 | 09 | 28.07.2026 | Existence & Window Functions | -- | 585, 185 |
 | 10 | 29.07.2026 | Strings & Schema Operations | Lessons 16–18 | 1667, 1527, 196, 176, 1484, 1517 |
-| 11 | 30.07.2026 | Review of Previous Problems | -- | -- |
+| 11 | 30.07.2026 | -- | -- | Review of Previous Problems |
