@@ -18,3 +18,4 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
 | 09 | 28.07.2026 | Existence & Window Functions | -- | 585, 185 |
 | 10 | 29.07.2026 | Strings & Schema Operations | Lessons 16–18 | 1667, 1527, 196, 176, 1484, 1517 |
 | 11 | 30.07.2026 | -- | -- | Review of Previous Problems |
+| 12 | 03.08.2026 | Join Review (Redo) | -- | 1378, 1068, 1581, 197 |
