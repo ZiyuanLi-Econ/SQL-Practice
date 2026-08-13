@@ -24,7 +24,7 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
       <td align="center">01</td>
       <td align="center">14.07.2026</td>
       <td>Basic Queries</td>
-      <td align="center">Lessons 1–5</td>
+      <td align="center">Lessons&nbsp;1–5</td>
       <td>—</td>
     </tr>
     <tr>
@@ -38,14 +38,14 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
       <td align="center">03</td>
       <td align="center">17.07.2026</td>
       <td>Joins &amp; Aggregation</td>
-      <td align="center">Lessons 6–9</td>
+      <td align="center">Lessons&nbsp;6–9</td>
       <td>1378, 1068, 1581, 197</td>
     </tr>
     <tr>
       <td align="center">04</td>
       <td align="center">21.07.2026</td>
       <td>Grouping &amp; Conditional Logic</td>
-      <td align="center">Lessons 10–12</td>
+      <td align="center">Lessons&nbsp;10–12</td>
       <td>1661, 577, 1280, 570, 1934</td>
     </tr>
     <tr>
@@ -66,7 +66,7 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
       <td align="center">07</td>
       <td align="center">24.07.2026</td>
       <td>Data Modification</td>
-      <td align="center">Lessons 13–15</td>
+      <td align="center">Lessons&nbsp;13–15</td>
       <td>1731, 1789</td>
     </tr>
     <tr>
@@ -87,7 +87,7 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
       <td align="center">10</td>
       <td align="center">29.07.2026</td>
       <td>Strings &amp; Schema Operations</td>
-      <td align="center">Lessons 16–18</td>
+      <td align="center">Lessons&nbsp;16–18</td>
       <td>1667, 1527, 196, 176, 1484, 1517</td>
     </tr>
     <tr>
