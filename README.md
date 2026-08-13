@@ -1,6 +1,6 @@
 # SQL Practice
 
-This repository documents my structured SQL practice through SQLBolt exercises, LeetCode problems, and systematic review.
+I first encountered SQL during my undergraduate Business Informatics course. This repository records my ongoing practice through daily exercises, SQLBolt, and LeetCode SQL problems.
 
 
 **Current Stage:** Second Round · **Practice Days:** 13
