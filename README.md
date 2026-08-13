@@ -5,20 +5,113 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
 
 ## Practice Log
 
-| Day | Date | Topic | SQLBolt | LeetCode |
-|---|---|---|---|---|
-|  |  | **First Round** |  |  |
-| 01 | 14.07.2026 | Basic Queries | Lessons 1–5 | -- |
-| 02 | 15.07.2026 | Filtering Practice | -- | 1757, 584, 595, 1148, 1683 |
-| 03 | 17.07.2026 | Joins & Aggregation | Lessons 6–9 | 1378, 1068, 1581, 197 |
-| 04 | 21.07.2026 | Grouping & Conditional Logic | Lessons 10–12 | 1661, 577, 1280, 570, 1934 |
-| 05 | 22.07.2026 | Subqueries & Date Logic | -- | 620, 1251, 1075, 1633, 1211, 1193, 1174, 550 |
-| 06 | 23.07.2026 | Advanced Aggregation | -- | 2356, 1141, 1070, 596, 1729, 619, 1045 |
-| 07 | 24.07.2026 | Data Modification | Lessons 13–15 | 1731, 1789 |
-| 08 | 27.07.2026 | Correlated & Cumulative Queries | -- | 610, 180, 1164, 1204, 1907 |
-| 09 | 28.07.2026 | Existence & Window Functions | -- | 585, 185 |
-| 10 | 29.07.2026 | Strings & Schema Operations | Lessons 16–18 | 1667, 1527, 196, 176, 1484, 1517 |
-|  |  | **Second Round** |  |  |
-| 11 | 30.07.2026 | Join Review | -- | 185，196，1517 |
-| 12 | 03.08.2026 | Join Review | -- | 1378, 1068, 1581, 197 |
-| 13 | 13.08.2026 | Join Review | -- | 197, 1661, 577 |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Day</th>
+      <th align="center">Date</th>
+      <th align="left">Topic</th>
+      <th align="center">SQLBolt</th>
+      <th align="left">LeetCode</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="5" align="center">First Round</th>
+    </tr>
+    <tr>
+      <td align="center">01</td>
+      <td align="center">14.07.2026</td>
+      <td>Basic Queries</td>
+      <td align="center">Lessons 1–5</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td align="center">02</td>
+      <td align="center">15.07.2026</td>
+      <td>Filtering Practice</td>
+      <td align="center">--</td>
+      <td>1757, 584, 595, 1148, 1683</td>
+    </tr>
+    <tr>
+      <td align="center">03</td>
+      <td align="center">17.07.2026</td>
+      <td>Joins &amp; Aggregation</td>
+      <td align="center">Lessons 6–9</td>
+      <td>1378, 1068, 1581, 197</td>
+    </tr>
+    <tr>
+      <td align="center">04</td>
+      <td align="center">21.07.2026</td>
+      <td>Grouping &amp; Conditional Logic</td>
+      <td align="center">Lessons 10–12</td>
+      <td>1661, 577, 1280, 570, 1934</td>
+    </tr>
+    <tr>
+      <td align="center">05</td>
+      <td align="center">22.07.2026</td>
+      <td>Subqueries &amp; Date Logic</td>
+      <td align="center">--</td>
+      <td>620, 1251, 1075, 1633, 1211, 1193, 1174, 550</td>
+    </tr>
+    <tr>
+      <td align="center">06</td>
+      <td align="center">23.07.2026</td>
+      <td>Advanced Aggregation</td>
+      <td align="center">--</td>
+      <td>2356, 1141, 1070, 596, 1729, 619, 1045</td>
+    </tr>
+    <tr>
+      <td align="center">07</td>
+      <td align="center">24.07.2026</td>
+      <td>Data Modification</td>
+      <td align="center">Lessons 13–15</td>
+      <td>1731, 1789</td>
+    </tr>
+    <tr>
+      <td align="center">08</td>
+      <td align="center">27.07.2026</td>
+      <td>Correlated &amp; Cumulative Queries</td>
+      <td align="center">--</td>
+      <td>610, 180, 1164, 1204, 1907</td>
+    </tr>
+    <tr>
+      <td align="center">09</td>
+      <td align="center">28.07.2026</td>
+      <td>Existence &amp; Window Functions</td>
+      <td align="center">--</td>
+      <td>585, 185</td>
+    </tr>
+    <tr>
+      <td align="center">10</td>
+      <td align="center">29.07.2026</td>
+      <td>Strings &amp; Schema Operations</td>
+      <td align="center">Lessons 16–18</td>
+      <td>1667, 1527, 196, 176, 1484, 1517</td>
+    </tr>
+    <tr>
+      <th colspan="5" align="center">Second Round</th>
+    </tr>
+    <tr>
+      <td align="center">11</td>
+      <td align="center">30.07.2026</td>
+      <td>Join Review</td>
+      <td align="center">--</td>
+      <td>185, 196, 1517</td>
+    </tr>
+    <tr>
+      <td align="center">12</td>
+      <td align="center">03.08.2026</td>
+      <td>Join Review</td>
+      <td align="center">--</td>
+      <td>1378, 1068, 1581, 197</td>
+    </tr>
+    <tr>
+      <td align="center">13</td>
+      <td align="center">13.08.2026</td>
+      <td>Join Review</td>
+      <td align="center">--</td>
+      <td>197, 1661, 577</td>
+    </tr>
+  </tbody>
+</table>
