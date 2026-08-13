@@ -1,7 +1,9 @@
 # SQL Practice
 
-I first encountered SQL during my undergraduate Business Informatics course. This repository records my ongoing practice through daily exercises, SQLBolt, and LeetCode SQL problems.
+This repository documents my structured SQL practice through SQLBolt exercises, LeetCode problems, and systematic review.
 
+
+**Current Stage:** Second Round · **Practice Days:** 13
 
 ## Practice Log
 
@@ -24,13 +26,13 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
       <td align="center">14.07.2026</td>
       <td>Basic Queries</td>
       <td align="center">Lessons 1–5</td>
-      <td>--</td>
+      <td>—</td>
     </tr>
     <tr>
       <td align="center">02</td>
       <td align="center">15.07.2026</td>
       <td>Filtering Practice</td>
-      <td align="center">--</td>
+      <td align="center">—</td>
       <td>1757, 584, 595, 1148, 1683</td>
     </tr>
     <tr>
@@ -51,14 +53,14 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
       <td align="center">05</td>
       <td align="center">22.07.2026</td>
       <td>Subqueries &amp; Date Logic</td>
-      <td align="center">--</td>
+      <td align="center">—</td>
       <td>620, 1251, 1075, 1633, 1211, 1193, 1174, 550</td>
     </tr>
     <tr>
       <td align="center">06</td>
       <td align="center">23.07.2026</td>
       <td>Advanced Aggregation</td>
-      <td align="center">--</td>
+      <td align="center">—</td>
       <td>2356, 1141, 1070, 596, 1729, 619, 1045</td>
     </tr>
     <tr>
@@ -72,14 +74,14 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
       <td align="center">08</td>
       <td align="center">27.07.2026</td>
       <td>Correlated &amp; Cumulative Queries</td>
-      <td align="center">--</td>
+      <td align="center">—</td>
       <td>610, 180, 1164, 1204, 1907</td>
     </tr>
     <tr>
       <td align="center">09</td>
       <td align="center">28.07.2026</td>
       <td>Existence &amp; Window Functions</td>
-      <td align="center">--</td>
+      <td align="center">—</td>
       <td>585, 185</td>
     </tr>
     <tr>
@@ -96,21 +98,21 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
       <td align="center">11</td>
       <td align="center">30.07.2026</td>
       <td>Join Review</td>
-      <td align="center">--</td>
+      <td align="center">—</td>
       <td>185, 196, 1517</td>
     </tr>
     <tr>
       <td align="center">12</td>
       <td align="center">03.08.2026</td>
       <td>Join Review</td>
-      <td align="center">--</td>
+      <td align="center">—</td>
       <td>1378, 1068, 1581, 197</td>
     </tr>
     <tr>
       <td align="center">13</td>
       <td align="center">13.08.2026</td>
       <td>Join Review</td>
-      <td align="center">--</td>
+      <td align="center">—</td>
       <td>197, 1661, 577</td>
     </tr>
   </tbody>
