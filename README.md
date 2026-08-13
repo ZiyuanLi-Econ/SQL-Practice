@@ -4,6 +4,7 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
 
 
 
+
 ## Practice Log
 
 <table>
