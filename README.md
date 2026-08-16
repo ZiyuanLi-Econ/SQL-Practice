@@ -114,5 +114,12 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
       <td align="center">—</td>
       <td>197, 1661, 577</td>
     </tr>
+    <tr>
+      <td align="center">14</td>
+      <td align="center">16.08.2026</td>
+      <td>Join &amp; Aggregation Review</td>
+      <td align="center">—</td>
+      <td>1280, 570, 1934</td>
+    </tr>
   </tbody>
 </table>
