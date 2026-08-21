@@ -128,5 +128,12 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
       <td align="center">—</td>
       <td>620, 1251</td>
     </tr>
+    <tr>
+      <td align="center">16</td>
+      <td align="center">21.08.2026</td>
+      <td>Join, Aggregation &amp; Subquery Review</td>
+      <td align="center">—</td>
+      <td>1075, 1633</td>
+    </tr>
   </tbody>
 </table>
