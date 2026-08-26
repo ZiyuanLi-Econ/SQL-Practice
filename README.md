@@ -96,49 +96,49 @@ I first encountered SQL during my undergraduate Business Informatics course. Thi
     <tr>
       <td align="center">11</td>
       <td align="center">30.07.2026</td>
-      <td>Join Review</td>
+      <td>Review</td>
       <td align="center">—</td>
       <td>185, 196, 1517</td>
     </tr>
     <tr>
       <td align="center">12</td>
       <td align="center">03.08.2026</td>
-      <td>Join Review</td>
+      <td>Review</td>
       <td align="center">—</td>
       <td>1378, 1068, 1581, 197</td>
     </tr>
     <tr>
       <td align="center">13</td>
       <td align="center">13.08.2026</td>
-      <td>Join Review</td>
+      <td>Review</td>
       <td align="center">—</td>
       <td>197, 1661, 577</td>
     </tr>
     <tr>
       <td align="center">14</td>
       <td align="center">16.08.2026</td>
-      <td>Join &amp; Aggregation Review</td>
+      <td>Review</td>
       <td align="center">—</td>
       <td>1280, 570, 1934</td>
     </tr>
     <tr>
       <td align="center">15</td>
       <td align="center">17.08.2026</td>
-      <td>Filtering &amp; Aggregation Review</td>
+      <td>Review</td>
       <td align="center">—</td>
       <td>620, 1251</td>
     </tr>
     <tr>
       <td align="center">16</td>
       <td align="center">21.08.2026</td>
-      <td>Join, Aggregation &amp; Subquery Review</td>
+      <td>Review</td>
       <td align="center">—</td>
       <td>1075, 1633</td>
     </tr>
     <tr>
       <td align="center">17</td>
       <td align="center">26.08.2026</td>
-      <td>Aggregation &amp; Correlated Subquery Review</td>
+      <td>Review</td>
       <td align="center">—</td>
       <td>1211</td>
     </tr>
